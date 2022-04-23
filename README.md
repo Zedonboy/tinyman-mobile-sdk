@@ -16,6 +16,6 @@ the key as the format of {min(assetID)}-{max(assetID)}
 [go-bind](https://pkg.go.dev/golang.org/x/mobile/cmd/gobind) to generate Android and IOS packages.
 
 TODO lists
-- [] Write Tutorial on Swapping in Golang
-- [] Write Tutorial on generating go-bind languages.
+- [ ] Write Tutorial on Swapping in Golang
+- [ ] Write Tutorial on generating go-bind languages.
 Updates will be coming soon on Monday 25th April 2022.
